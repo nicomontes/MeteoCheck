@@ -17,7 +17,7 @@ puts "-------"
 $browser = Watir::Browser.new :chrome, :switches => %w[--disable-popup-blocking --disable-translate]
 
 # Open JSON file
-file = File.open("/Users/nmontes/Code/MeteoCheck/meteodata.json", "r:UTF-8")
+file = File.open("meteodata.json", "r:UTF-8")
 json_file = file.read
 file.close
 
