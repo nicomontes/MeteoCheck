@@ -1,3 +1,4 @@
-2018-06-15 : Éclaircies Min : 17° Max : 25°
-2018-06-14 : Éclaircies Min : 17° Max : 26°
-2018-06-13 : Éclaircies Min : 16° Max : 24°
+date,weather,tempMax,tempMin
+2018-06-15,Éclaircies,25,17
+2018-06-14,Éclaircies,26,17
+2018-06-13,Éclaircies,24,16

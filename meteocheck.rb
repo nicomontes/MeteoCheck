@@ -28,6 +28,18 @@ date = Date.today
 hash = JSON.parse(json_file)
 data = Hash.new
 
+dataNew = Hash.new
+dataNew['cities'] = []
+dataNew['cities']['name'] = ''
+dataNew['cities']['zip'] = ''
+dataNew['cities']['forecast'] = []
+dataNew['cities']['forecast']['source'] = ''
+dataNew['cities']['forecast']['date_from'] = ''
+dataNew['cities']['forecast']['date_for'] = ''
+dataNew['cities']['forecast']['weather'] = ''
+dataNew['cities']['forecast']['t_min'] = ''
+dataNew['cities']['forecast']['t_max'] = ''
+
 i=0
 # Browse JSON file
 hash['cities'].each do |item|
@@ -38,10 +50,10 @@ hash['cities'].each do |item|
 	$browser.div(:class => 'liste-jours').ul.lis.each do |li|
 		data[(date).to_s][j] = {}
 		data[(date).to_s][j][(date+j).to_s] = {}
-		data[(date).to_s][j][(date+j).to_s]['weather'] = {}
-		data[(date).to_s][j][(date+j).to_s]['weather']['weather'] = li.title.to_s
-		data[(date).to_s][j][(date+j).to_s]['weather']['min_temp'] = /[\-0-9]*/.match(li.dl.dds[1].span(:class => 'min-temp').inner_html).to_s
-		data[(date).to_s][j][(date+j).to_s]['weather']['max_temp'] = /[\-0-9]*/.match(li.dl.dds[1].span(:class => 'max-temp').inner_html).to_s
+		data[(date).to_s][j][(date+j).to_s]['MF'] = {}
+		data[(date).to_s][j][(date+j).to_s]['MF']['weather'] = li.title.to_s
+		data[(date).to_s][j][(date+j).to_s]['MF']['min_temp'] = /[\-0-9]*/.match(li.dl.dds[1].span(:class => 'min-temp').inner_html).to_s
+		data[(date).to_s][j][(date+j).to_s]['MF']['max_temp'] = /[\-0-9]*/.match(li.dl.dds[1].span(:class => 'max-temp').inner_html).to_s
 		j+=1
 	end
 	hash['cities'][i] = hash['cities'][i].merge(data)
@@ -59,7 +71,7 @@ hash['cities'].each do |item|
 		system 'mkdir', '-p', item["name"]
 		hash['cities'][i][(date-l).to_s].each do |value|
 				File.open(item["name"]+'/'+item["name"]+'_'+(date-l+m).to_s, 'w') { |f|
-					f.write('')
+					f.write("date,weather,tempMax,tempMin\n")
 					f.close
 				}
 			#puts 'le ' + (date-l).to_s + ' Météo France à prévu pour le ' + (date-l+m).to_s + ' cette météo : ' + value[(date-l+m).to_s]['weather'].to_s
@@ -74,10 +86,10 @@ hash['cities'].each do |item|
 		m=0
 		system 'mkdir', item["name"]
 		hash['cities'][i][(date-l).to_s].each do |value|
-				File.open(item["name"]+'/'+item["name"]+'_'+(date-l+m).to_s, 'a') { |f|
-			  	f.puts((date-l).to_s + ' : ' + value[(date-l+m).to_s]['weather']['weather'].to_s + ' Min : ' + value[(date-l+m).to_s]['weather']['min_temp'] + '° Max : ' + value[(date-l+m).to_s]['weather']['max_temp'] + "°\n")
-			  	f.close
-				}
+			File.open(item["name"]+'/'+item["name"]+'_'+(date-l+m).to_s, 'a') { |f|
+		  	f.puts((date-l).to_s + ',' + value[(date-l+m).to_s]['MF']['weather'].to_s + ',' + value[(date-l+m).to_s]['MF']['max_temp'] + ',' + value[(date-l+m).to_s]['MF']['min_temp'])
+		  	f.close
+			}
 			#puts 'le ' + (date-l).to_s + ' Météo France à prévu pour le ' + (date-l+m).to_s + ' cette météo : ' + value[(date-l+m).to_s]['weather'].to_s
 			m+=1
 		end
@@ -95,6 +107,11 @@ $browser.close
 
 File.open('meteodata.json', 'w') { |f| 
   f.write(JSON.pretty_generate(hash))
+  f.close
+}
+
+File.open('meteodataNew.json', 'w') { |f| 
+  f.write(JSON.pretty_generate(dataNew))
   f.close
 }
 

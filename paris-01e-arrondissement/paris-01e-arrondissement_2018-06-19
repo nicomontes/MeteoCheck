@@ -1,4 +1,5 @@
-2018-06-15 : Éclaircies Min : 15° Max : 25°
-2018-06-14 : Éclaircies Min : 16° Max : 25°
-2018-06-13 : Rares averses Min : 15° Max : 25°
-2018-06-12 : Rares averses Min : 15° Max : 24°
+date,weather,tempMax,tempMin
+2018-06-15,Éclaircies,26,14
+2018-06-14,Éclaircies,25,16
+2018-06-13,Rares averses,25,15
+2018-06-12,Rares averses,24,15

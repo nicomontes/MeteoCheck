@@ -1,2 +1,3 @@
-2018-06-15 : Pluie Min : 15° Max : 23°
-2018-06-14 : Pluie Min : 15° Max : 24°
+date,weather,tempMax,tempMin
+2018-06-15,Ensoleillé,24,15
+2018-06-14,Pluie,24,15

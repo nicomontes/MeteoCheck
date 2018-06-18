@@ -1,3 +1,4 @@
-2018-06-15 : Ensoleillé Min : 14° Max : 30°
-2018-06-14 : Éclaircies Min : 14° Max : 29°
-2018-06-13 : Averses Min : 13° Max : 26°
+date,weather,tempMax,tempMin
+2018-06-15,Ensoleillé,30,15
+2018-06-14,Éclaircies,29,14
+2018-06-13,Averses,26,13

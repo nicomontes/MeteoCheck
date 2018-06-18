@@ -1,3 +1,4 @@
-2018-06-15 : Ensoleillé Min : 11° Max : 22°
-2018-06-14 : Éclaircies Min : 11° Max : 22°
-2018-06-13 : Éclaircies Min : 11° Max : 21°
+date,weather,tempMax,tempMin
+2018-06-15,Ensoleillé,22,11
+2018-06-14,Éclaircies,22,11
+2018-06-13,Éclaircies,21,11

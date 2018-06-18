@@ -1,2 +1,3 @@
-2018-06-15 : Ensoleillé Min : 16° Max : 26°
-2018-06-14 : Ensoleillé Min : 16° Max : 25°
+date,weather,tempMax,tempMin
+2018-06-15,Ensoleillé,25,15
+2018-06-14,Ensoleillé,25,16
