@@ -28,17 +28,22 @@ date = Date.today
 hash = JSON.parse(json_file)
 data = Hash.new
 
+forecast = Hash.new
+forecast['source'] = ''
+forecast['date_from'] = ''
+forecast['date_for'] = ''
+forecast['weather'] = ''
+forecast['t_min'] = ''
+forecast['t_max'] = ''
+
+city = Hash.new
+city['name'] = ''
+city['zip'] = ''
+city['forecast'] = [forecast]
+
 dataNew = Hash.new
-dataNew['cities'] = []
-dataNew['cities']['name'] = ''
-dataNew['cities']['zip'] = ''
-dataNew['cities']['forecast'] = []
-dataNew['cities']['forecast']['source'] = ''
-dataNew['cities']['forecast']['date_from'] = ''
-dataNew['cities']['forecast']['date_for'] = ''
-dataNew['cities']['forecast']['weather'] = ''
-dataNew['cities']['forecast']['t_min'] = ''
-dataNew['cities']['forecast']['t_max'] = ''
+dataNew['cities'] = [city]
+
 
 i=0
 # Browse JSON file
