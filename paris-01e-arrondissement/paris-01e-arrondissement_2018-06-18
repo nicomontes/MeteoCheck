@@ -1,7 +1,8 @@
-2018-06-18 : Éclaircies Min : 18° Max : 24°
-2018-06-17 : Éclaircies Min : 16° Max : 23°
-2018-06-16 : Pluies éparses Min : 16° Max : 23°
-2018-06-15 : Éclaircies Min : 15° Max : 23°
-2018-06-14 : Très nuageux Min : 14° Max : 23°
-2018-06-13 : Très nuageux Min : 13° Max : 23°
-2018-06-12 : Pluie Min : 13° Max : 22°
+date,source,weather,tempMax,tempMin
+2018-06-12,Météo France,Pluie,22,13
+2018-06-13,Météo France,Très nuageux,23,13
+2018-06-14,Météo France,Très nuageux,23,14
+2018-06-15,Météo France,Éclaircies,23,15
+2018-06-16,Météo France,Pluies éparses,23,16
+2018-06-17,Météo France,Éclaircies,23,16
+2018-06-18,Météo France,Éclaircies,24,18

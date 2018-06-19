@@ -1,3 +1,4 @@
-2018-06-15 : Pluies éparses Min : 11° Max : 19°
-2018-06-14 : Pluies éparses Min : 10° Max : 20°
-2018-06-13 : Pluies éparses Min : 10° Max : 19°
+date,source,weather,tempMax,tempMin
+2018-06-13,Météo France,Pluies éparses,19,10
+2018-06-14,Météo France,Pluies éparses,20,10
+2018-06-15,Météo France,Pluies éparses,19,11

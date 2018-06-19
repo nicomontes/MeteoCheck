@@ -1,1 +1,2 @@
-2018-06-18 : Averses Min : 19° Max : 30°
+date,source,weather,tempMax,tempMin
+2018-06-18,Météo France,Averses,30,19

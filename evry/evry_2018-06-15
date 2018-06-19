@@ -1,4 +1,5 @@
-2018-06-15 : Éclaircies Min : 13° Max : 23°
-2018-06-14 : Éclaircies Min : 13° Max : 23°
-2018-06-13 : Éclaircies Min : 14° Max : 23°
-2018-06-12 : Éclaircies Min : 13° Max : 23°
+date,source,weather,tempMax,tempMin
+2018-06-12,Météo France,Éclaircies,23,13
+2018-06-13,Météo France,Éclaircies,23,14
+2018-06-14,Météo France,Éclaircies,23,13
+2018-06-15,Météo France,Éclaircies,23,13

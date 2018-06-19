@@ -1,6 +1,7 @@
-2018-06-18 : Ensoleillé Min : 16° Max : 29°
-2018-06-17 : Éclaircies Min : 18° Max : 32°
-2018-06-16 : Éclaircies Min : 20° Max : 34°
-2018-06-15 : Ensoleillé Min : 18° Max : 32°
-2018-06-14 : Éclaircies Min : 18° Max : 31°
-2018-06-13 : Ensoleillé Min : 18° Max : 31°
+date,source,weather,tempMax,tempMin
+2018-06-13,Météo France,Ensoleillé,31,18
+2018-06-14,Météo France,Éclaircies,31,18
+2018-06-15,Météo France,Ensoleillé,32,18
+2018-06-16,Météo France,Éclaircies,34,20
+2018-06-17,Météo France,Éclaircies,32,18
+2018-06-18,Météo France,Ensoleillé,29,16

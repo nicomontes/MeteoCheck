@@ -1,2 +1,3 @@
-2018-06-18 : Ensoleillé Min : 19° Max : 33°
-2018-06-17 : Ensoleillé Min : 19° Max : 34°
+date,source,weather,tempMax,tempMin
+2018-06-17,Météo France,Ensoleillé,34,19
+2018-06-18,Météo France,Ensoleillé,33,19

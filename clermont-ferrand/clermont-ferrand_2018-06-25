@@ -1,6 +1,7 @@
-2018-06-18 : Ensoleillé Min : 13° Max : 27°
-2018-06-17 : Éclaircies Min : 16° Max : 30°
-2018-06-16 : Éclaircies Min : 19° Max : 32°
-2018-06-15 : Pluie Min : 18° Max : 30°
-2018-06-14 : Ensoleillé Min : 18° Max : 29°
-2018-06-13 : Averses Min : 18° Max : 29°
+date,source,weather,tempMax,tempMin
+2018-06-13,Météo France,Averses,29,18
+2018-06-14,Météo France,Ensoleillé,29,18
+2018-06-15,Météo France,Pluie,30,18
+2018-06-16,Météo France,Éclaircies,32,19
+2018-06-17,Météo France,Éclaircies,30,16
+2018-06-18,Météo France,Ensoleillé,27,13
