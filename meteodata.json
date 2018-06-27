@@ -1922,6 +1922,134 @@
             }
           }
         }
+      ],
+      "2018-06-27": [
+        {
+          "2018-06-27": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "15",
+              "max_temp": "30"
+            }
+          }
+        },
+        {
+          "2018-06-28": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "18",
+              "max_temp": "29"
+            }
+          }
+        },
+        {
+          "2018-06-29": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "19",
+              "max_temp": "30"
+            }
+          }
+        },
+        {
+          "2018-06-30": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "17",
+              "max_temp": "32"
+            }
+          }
+        },
+        {
+          "2018-07-01": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "20",
+              "max_temp": "33"
+            }
+          }
+        },
+        {
+          "2018-07-02": {
+            "weather": {
+              "weather": "Averses orageuses",
+              "min_temp": "20",
+              "max_temp": "33"
+            }
+          }
+        },
+        {
+          "2018-07-03": {
+            "weather": {
+              "weather": "Averses orageuses",
+              "min_temp": "20",
+              "max_temp": "32"
+            }
+          }
+        },
+        {
+          "2018-07-04": {
+            "weather": {
+              "weather": "Averses orageuses",
+              "min_temp": "20",
+              "max_temp": "31"
+            }
+          }
+        },
+        {
+          "2018-07-05": {
+            "weather": {
+              "weather": "Averses",
+              "min_temp": "20",
+              "max_temp": "29"
+            }
+          }
+        },
+        {
+          "2018-07-06": {
+            "weather": {
+              "weather": "Averses",
+              "min_temp": "18",
+              "max_temp": "28"
+            }
+          }
+        },
+        {
+          "2018-07-07": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "18",
+              "max_temp": "27"
+            }
+          }
+        },
+        {
+          "2018-07-08": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "18",
+              "max_temp": "28"
+            }
+          }
+        },
+        {
+          "2018-07-09": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "17",
+              "max_temp": "28"
+            }
+          }
+        },
+        {
+          "2018-07-10": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "17",
+              "max_temp": "29"
+            }
+          }
+        }
       ]
     },
     {
@@ -3843,6 +3971,134 @@
               "weather": "Ensoleillé",
               "min_temp": "16",
               "max_temp": "27"
+            }
+          }
+        }
+      ],
+      "2018-06-27": [
+        {
+          "2018-06-27": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "15",
+              "max_temp": "30"
+            }
+          }
+        },
+        {
+          "2018-06-28": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "17",
+              "max_temp": "29"
+            }
+          }
+        },
+        {
+          "2018-06-29": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "19",
+              "max_temp": "31"
+            }
+          }
+        },
+        {
+          "2018-06-30": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "18",
+              "max_temp": "32"
+            }
+          }
+        },
+        {
+          "2018-07-01": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "20",
+              "max_temp": "33"
+            }
+          }
+        },
+        {
+          "2018-07-02": {
+            "weather": {
+              "weather": "Averses orageuses",
+              "min_temp": "20",
+              "max_temp": "33"
+            }
+          }
+        },
+        {
+          "2018-07-03": {
+            "weather": {
+              "weather": "Averses orageuses",
+              "min_temp": "19",
+              "max_temp": "32"
+            }
+          }
+        },
+        {
+          "2018-07-04": {
+            "weather": {
+              "weather": "Averses orageuses",
+              "min_temp": "20",
+              "max_temp": "31"
+            }
+          }
+        },
+        {
+          "2018-07-05": {
+            "weather": {
+              "weather": "Averses",
+              "min_temp": "19",
+              "max_temp": "28"
+            }
+          }
+        },
+        {
+          "2018-07-06": {
+            "weather": {
+              "weather": "Averses",
+              "min_temp": "17",
+              "max_temp": "27"
+            }
+          }
+        },
+        {
+          "2018-07-07": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "17",
+              "max_temp": "27"
+            }
+          }
+        },
+        {
+          "2018-07-08": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "16",
+              "max_temp": "27"
+            }
+          }
+        },
+        {
+          "2018-07-09": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "16",
+              "max_temp": "27"
+            }
+          }
+        },
+        {
+          "2018-07-10": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "16",
+              "max_temp": "28"
             }
           }
         }
@@ -5770,6 +6026,134 @@
             }
           }
         }
+      ],
+      "2018-06-27": [
+        {
+          "2018-06-27": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "15",
+              "max_temp": "30"
+            }
+          }
+        },
+        {
+          "2018-06-28": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "16",
+              "max_temp": "28"
+            }
+          }
+        },
+        {
+          "2018-06-29": {
+            "weather": {
+              "weather": "Éclaircies",
+              "min_temp": "16",
+              "max_temp": "29"
+            }
+          }
+        },
+        {
+          "2018-06-30": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "17",
+              "max_temp": "33"
+            }
+          }
+        },
+        {
+          "2018-07-01": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "19",
+              "max_temp": "35"
+            }
+          }
+        },
+        {
+          "2018-07-02": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "20",
+              "max_temp": "36"
+            }
+          }
+        },
+        {
+          "2018-07-03": {
+            "weather": {
+              "weather": "Averses orageuses",
+              "min_temp": "19",
+              "max_temp": "33"
+            }
+          }
+        },
+        {
+          "2018-07-04": {
+            "weather": {
+              "weather": "Averses orageuses",
+              "min_temp": "19",
+              "max_temp": "32"
+            }
+          }
+        },
+        {
+          "2018-07-05": {
+            "weather": {
+              "weather": "Averses",
+              "min_temp": "19",
+              "max_temp": "29"
+            }
+          }
+        },
+        {
+          "2018-07-06": {
+            "weather": {
+              "weather": "Averses",
+              "min_temp": "17",
+              "max_temp": "27"
+            }
+          }
+        },
+        {
+          "2018-07-07": {
+            "weather": {
+              "weather": "Averses",
+              "min_temp": "17",
+              "max_temp": "28"
+            }
+          }
+        },
+        {
+          "2018-07-08": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "17",
+              "max_temp": "28"
+            }
+          }
+        },
+        {
+          "2018-07-09": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "17",
+              "max_temp": "29"
+            }
+          }
+        },
+        {
+          "2018-07-10": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "17",
+              "max_temp": "30"
+            }
+          }
+        }
       ]
     },
     {
@@ -7694,6 +8078,134 @@
             }
           }
         }
+      ],
+      "2018-06-27": [
+        {
+          "2018-06-27": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "11",
+              "max_temp": "30"
+            }
+          }
+        },
+        {
+          "2018-06-28": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "14",
+              "max_temp": "28"
+            }
+          }
+        },
+        {
+          "2018-06-29": {
+            "weather": {
+              "weather": "Éclaircies",
+              "min_temp": "14",
+              "max_temp": "29"
+            }
+          }
+        },
+        {
+          "2018-06-30": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "16",
+              "max_temp": "33"
+            }
+          }
+        },
+        {
+          "2018-07-01": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "18",
+              "max_temp": "35"
+            }
+          }
+        },
+        {
+          "2018-07-02": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "19",
+              "max_temp": "36"
+            }
+          }
+        },
+        {
+          "2018-07-03": {
+            "weather": {
+              "weather": "Averses orageuses",
+              "min_temp": "19",
+              "max_temp": "33"
+            }
+          }
+        },
+        {
+          "2018-07-04": {
+            "weather": {
+              "weather": "Averses orageuses",
+              "min_temp": "18",
+              "max_temp": "33"
+            }
+          }
+        },
+        {
+          "2018-07-05": {
+            "weather": {
+              "weather": "Averses",
+              "min_temp": "18",
+              "max_temp": "30"
+            }
+          }
+        },
+        {
+          "2018-07-06": {
+            "weather": {
+              "weather": "Averses",
+              "min_temp": "16",
+              "max_temp": "28"
+            }
+          }
+        },
+        {
+          "2018-07-07": {
+            "weather": {
+              "weather": "Averses",
+              "min_temp": "16",
+              "max_temp": "28"
+            }
+          }
+        },
+        {
+          "2018-07-08": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "16",
+              "max_temp": "29"
+            }
+          }
+        },
+        {
+          "2018-07-09": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "16",
+              "max_temp": "29"
+            }
+          }
+        },
+        {
+          "2018-07-10": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "16",
+              "max_temp": "31"
+            }
+          }
+        }
       ]
     },
     {
@@ -9487,6 +9999,134 @@
               "weather": "Ensoleillé",
               "min_temp": "19",
               "max_temp": "31"
+            }
+          }
+        }
+      ],
+      "2018-06-27": [
+        {
+          "2018-06-27": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "17",
+              "max_temp": "31"
+            }
+          }
+        },
+        {
+          "2018-06-28": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "19",
+              "max_temp": "29"
+            }
+          }
+        },
+        {
+          "2018-06-29": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "18",
+              "max_temp": "31"
+            }
+          }
+        },
+        {
+          "2018-06-30": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "19",
+              "max_temp": "34"
+            }
+          }
+        },
+        {
+          "2018-07-01": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "21",
+              "max_temp": "37"
+            }
+          }
+        },
+        {
+          "2018-07-02": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "22",
+              "max_temp": "38"
+            }
+          }
+        },
+        {
+          "2018-07-03": {
+            "weather": {
+              "weather": "Averses orageuses",
+              "min_temp": "22",
+              "max_temp": "36"
+            }
+          }
+        },
+        {
+          "2018-07-04": {
+            "weather": {
+              "weather": "Averses orageuses",
+              "min_temp": "22",
+              "max_temp": "35"
+            }
+          }
+        },
+        {
+          "2018-07-05": {
+            "weather": {
+              "weather": "Averses",
+              "min_temp": "22",
+              "max_temp": "33"
+            }
+          }
+        },
+        {
+          "2018-07-06": {
+            "weather": {
+              "weather": "Averses",
+              "min_temp": "20",
+              "max_temp": "30"
+            }
+          }
+        },
+        {
+          "2018-07-07": {
+            "weather": {
+              "weather": "Averses",
+              "min_temp": "19",
+              "max_temp": "30"
+            }
+          }
+        },
+        {
+          "2018-07-08": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "20",
+              "max_temp": "31"
+            }
+          }
+        },
+        {
+          "2018-07-09": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "20",
+              "max_temp": "32"
+            }
+          }
+        },
+        {
+          "2018-07-10": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "20",
+              "max_temp": "32"
             }
           }
         }
@@ -11286,6 +11926,134 @@
             }
           }
         }
+      ],
+      "2018-06-27": [
+        {
+          "2018-06-27": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "14",
+              "max_temp": "31"
+            }
+          }
+        },
+        {
+          "2018-06-28": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "18",
+              "max_temp": "29"
+            }
+          }
+        },
+        {
+          "2018-06-29": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "16",
+              "max_temp": "30"
+            }
+          }
+        },
+        {
+          "2018-06-30": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "17",
+              "max_temp": "34"
+            }
+          }
+        },
+        {
+          "2018-07-01": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "20",
+              "max_temp": "36"
+            }
+          }
+        },
+        {
+          "2018-07-02": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "20",
+              "max_temp": "36"
+            }
+          }
+        },
+        {
+          "2018-07-03": {
+            "weather": {
+              "weather": "Averses orageuses",
+              "min_temp": "20",
+              "max_temp": "35"
+            }
+          }
+        },
+        {
+          "2018-07-04": {
+            "weather": {
+              "weather": "Averses orageuses",
+              "min_temp": "20",
+              "max_temp": "34"
+            }
+          }
+        },
+        {
+          "2018-07-05": {
+            "weather": {
+              "weather": "Averses",
+              "min_temp": "20",
+              "max_temp": "33"
+            }
+          }
+        },
+        {
+          "2018-07-06": {
+            "weather": {
+              "weather": "Averses",
+              "min_temp": "19",
+              "max_temp": "31"
+            }
+          }
+        },
+        {
+          "2018-07-07": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "18",
+              "max_temp": "31"
+            }
+          }
+        },
+        {
+          "2018-07-08": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "18",
+              "max_temp": "32"
+            }
+          }
+        },
+        {
+          "2018-07-09": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "18",
+              "max_temp": "32"
+            }
+          }
+        },
+        {
+          "2018-07-10": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "19",
+              "max_temp": "32"
+            }
+          }
+        }
       ]
     },
     {
@@ -13079,6 +13847,134 @@
               "weather": "Ensoleillé",
               "min_temp": "16",
               "max_temp": "28"
+            }
+          }
+        }
+      ],
+      "2018-06-27": [
+        {
+          "2018-06-27": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "14",
+              "max_temp": "28"
+            }
+          }
+        },
+        {
+          "2018-06-28": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "14",
+              "max_temp": "25"
+            }
+          }
+        },
+        {
+          "2018-06-29": {
+            "weather": {
+              "weather": "Éclaircies",
+              "min_temp": "15",
+              "max_temp": "27"
+            }
+          }
+        },
+        {
+          "2018-06-30": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "16",
+              "max_temp": "31"
+            }
+          }
+        },
+        {
+          "2018-07-01": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "19",
+              "max_temp": "34"
+            }
+          }
+        },
+        {
+          "2018-07-02": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "20",
+              "max_temp": "35"
+            }
+          }
+        },
+        {
+          "2018-07-03": {
+            "weather": {
+              "weather": "Averses orageuses",
+              "min_temp": "20",
+              "max_temp": "33"
+            }
+          }
+        },
+        {
+          "2018-07-04": {
+            "weather": {
+              "weather": "Averses orageuses",
+              "min_temp": "19",
+              "max_temp": "32"
+            }
+          }
+        },
+        {
+          "2018-07-05": {
+            "weather": {
+              "weather": "Averses",
+              "min_temp": "19",
+              "max_temp": "30"
+            }
+          }
+        },
+        {
+          "2018-07-06": {
+            "weather": {
+              "weather": "Averses",
+              "min_temp": "17",
+              "max_temp": "27"
+            }
+          }
+        },
+        {
+          "2018-07-07": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "16",
+              "max_temp": "27"
+            }
+          }
+        },
+        {
+          "2018-07-08": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "17",
+              "max_temp": "28"
+            }
+          }
+        },
+        {
+          "2018-07-09": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "16",
+              "max_temp": "28"
+            }
+          }
+        },
+        {
+          "2018-07-10": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "17",
+              "max_temp": "29"
             }
           }
         }
@@ -14878,6 +15774,134 @@
             }
           }
         }
+      ],
+      "2018-06-27": [
+        {
+          "2018-06-27": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "12",
+              "max_temp": "29"
+            }
+          }
+        },
+        {
+          "2018-06-28": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "14",
+              "max_temp": "28"
+            }
+          }
+        },
+        {
+          "2018-06-29": {
+            "weather": {
+              "weather": "Éclaircies",
+              "min_temp": "15",
+              "max_temp": "28"
+            }
+          }
+        },
+        {
+          "2018-06-30": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "15",
+              "max_temp": "32"
+            }
+          }
+        },
+        {
+          "2018-07-01": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "20",
+              "max_temp": "35"
+            }
+          }
+        },
+        {
+          "2018-07-02": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "20",
+              "max_temp": "35"
+            }
+          }
+        },
+        {
+          "2018-07-03": {
+            "weather": {
+              "weather": "Averses orageuses",
+              "min_temp": "20",
+              "max_temp": "33"
+            }
+          }
+        },
+        {
+          "2018-07-04": {
+            "weather": {
+              "weather": "Averses orageuses",
+              "min_temp": "19",
+              "max_temp": "32"
+            }
+          }
+        },
+        {
+          "2018-07-05": {
+            "weather": {
+              "weather": "Averses",
+              "min_temp": "19",
+              "max_temp": "29"
+            }
+          }
+        },
+        {
+          "2018-07-06": {
+            "weather": {
+              "weather": "Averses",
+              "min_temp": "17",
+              "max_temp": "28"
+            }
+          }
+        },
+        {
+          "2018-07-07": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "17",
+              "max_temp": "28"
+            }
+          }
+        },
+        {
+          "2018-07-08": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "17",
+              "max_temp": "28"
+            }
+          }
+        },
+        {
+          "2018-07-09": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "17",
+              "max_temp": "29"
+            }
+          }
+        },
+        {
+          "2018-07-10": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "18",
+              "max_temp": "30"
+            }
+          }
+        }
       ]
     },
     {
@@ -16671,6 +17695,134 @@
               "weather": "Ensoleillé",
               "min_temp": "14",
               "max_temp": "28"
+            }
+          }
+        }
+      ],
+      "2018-06-27": [
+        {
+          "2018-06-27": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "9",
+              "max_temp": "29"
+            }
+          }
+        },
+        {
+          "2018-06-28": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "11",
+              "max_temp": "27"
+            }
+          }
+        },
+        {
+          "2018-06-29": {
+            "weather": {
+              "weather": "Éclaircies",
+              "min_temp": "13",
+              "max_temp": "28"
+            }
+          }
+        },
+        {
+          "2018-06-30": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "14",
+              "max_temp": "32"
+            }
+          }
+        },
+        {
+          "2018-07-01": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "16",
+              "max_temp": "34"
+            }
+          }
+        },
+        {
+          "2018-07-02": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "17",
+              "max_temp": "34"
+            }
+          }
+        },
+        {
+          "2018-07-03": {
+            "weather": {
+              "weather": "Averses orageuses",
+              "min_temp": "17",
+              "max_temp": "32"
+            }
+          }
+        },
+        {
+          "2018-07-04": {
+            "weather": {
+              "weather": "Averses orageuses",
+              "min_temp": "16",
+              "max_temp": "32"
+            }
+          }
+        },
+        {
+          "2018-07-05": {
+            "weather": {
+              "weather": "Averses",
+              "min_temp": "16",
+              "max_temp": "29"
+            }
+          }
+        },
+        {
+          "2018-07-06": {
+            "weather": {
+              "weather": "Averses",
+              "min_temp": "14",
+              "max_temp": "27"
+            }
+          }
+        },
+        {
+          "2018-07-07": {
+            "weather": {
+              "weather": "Averses",
+              "min_temp": "14",
+              "max_temp": "27"
+            }
+          }
+        },
+        {
+          "2018-07-08": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "14",
+              "max_temp": "28"
+            }
+          }
+        },
+        {
+          "2018-07-09": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "14",
+              "max_temp": "28"
+            }
+          }
+        },
+        {
+          "2018-07-10": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "14",
+              "max_temp": "29"
             }
           }
         }
@@ -18470,6 +19622,134 @@
             }
           }
         }
+      ],
+      "2018-06-27": [
+        {
+          "2018-06-27": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "11",
+              "max_temp": "28"
+            }
+          }
+        },
+        {
+          "2018-06-28": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "13",
+              "max_temp": "26"
+            }
+          }
+        },
+        {
+          "2018-06-29": {
+            "weather": {
+              "weather": "Éclaircies",
+              "min_temp": "13",
+              "max_temp": "26"
+            }
+          }
+        },
+        {
+          "2018-06-30": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "14",
+              "max_temp": "31"
+            }
+          }
+        },
+        {
+          "2018-07-01": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "18",
+              "max_temp": "35"
+            }
+          }
+        },
+        {
+          "2018-07-02": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "18",
+              "max_temp": "35"
+            }
+          }
+        },
+        {
+          "2018-07-03": {
+            "weather": {
+              "weather": "Averses orageuses",
+              "min_temp": "18",
+              "max_temp": "33"
+            }
+          }
+        },
+        {
+          "2018-07-04": {
+            "weather": {
+              "weather": "Averses orageuses",
+              "min_temp": "17",
+              "max_temp": "32"
+            }
+          }
+        },
+        {
+          "2018-07-05": {
+            "weather": {
+              "weather": "Averses",
+              "min_temp": "17",
+              "max_temp": "31"
+            }
+          }
+        },
+        {
+          "2018-07-06": {
+            "weather": {
+              "weather": "Averses",
+              "min_temp": "16",
+              "max_temp": "28"
+            }
+          }
+        },
+        {
+          "2018-07-07": {
+            "weather": {
+              "weather": "Averses",
+              "min_temp": "15",
+              "max_temp": "28"
+            }
+          }
+        },
+        {
+          "2018-07-08": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "15",
+              "max_temp": "29"
+            }
+          }
+        },
+        {
+          "2018-07-09": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "15",
+              "max_temp": "29"
+            }
+          }
+        },
+        {
+          "2018-07-10": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "15",
+              "max_temp": "30"
+            }
+          }
+        }
       ]
     },
     {
@@ -20263,6 +21543,134 @@
               "weather": "Ensoleillé",
               "min_temp": "15",
               "max_temp": "26"
+            }
+          }
+        }
+      ],
+      "2018-06-27": [
+        {
+          "2018-06-27": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "11",
+              "max_temp": "30"
+            }
+          }
+        },
+        {
+          "2018-06-28": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "11",
+              "max_temp": "27"
+            }
+          }
+        },
+        {
+          "2018-06-29": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "14",
+              "max_temp": "29"
+            }
+          }
+        },
+        {
+          "2018-06-30": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "16",
+              "max_temp": "32"
+            }
+          }
+        },
+        {
+          "2018-07-01": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "18",
+              "max_temp": "33"
+            }
+          }
+        },
+        {
+          "2018-07-02": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "19",
+              "max_temp": "32"
+            }
+          }
+        },
+        {
+          "2018-07-03": {
+            "weather": {
+              "weather": "Averses orageuses",
+              "min_temp": "18",
+              "max_temp": "29"
+            }
+          }
+        },
+        {
+          "2018-07-04": {
+            "weather": {
+              "weather": "Averses orageuses",
+              "min_temp": "17",
+              "max_temp": "28"
+            }
+          }
+        },
+        {
+          "2018-07-05": {
+            "weather": {
+              "weather": "Averses",
+              "min_temp": "17",
+              "max_temp": "26"
+            }
+          }
+        },
+        {
+          "2018-07-06": {
+            "weather": {
+              "weather": "Averses",
+              "min_temp": "15",
+              "max_temp": "25"
+            }
+          }
+        },
+        {
+          "2018-07-07": {
+            "weather": {
+              "weather": "Averses",
+              "min_temp": "15",
+              "max_temp": "25"
+            }
+          }
+        },
+        {
+          "2018-07-08": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "15",
+              "max_temp": "26"
+            }
+          }
+        },
+        {
+          "2018-07-09": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "15",
+              "max_temp": "27"
+            }
+          }
+        },
+        {
+          "2018-07-10": {
+            "weather": {
+              "weather": "Ensoleillé",
+              "min_temp": "15",
+              "max_temp": "27"
             }
           }
         }
