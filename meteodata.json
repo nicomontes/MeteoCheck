@@ -3,6 +3,7 @@
     {
       "name": "paris-01e-arrondissement",
       "zip": "75001",
+      "weather_channel_code": "FRXX0076:1:FR",
       "forecast": [
         {
           "source": "Météo France",
@@ -233,6 +234,7 @@
     {
       "name": "evry",
       "zip": "91000",
+      "weather_channel_code": "FRXX0201:1:FR",
       "forecast": [
         {
           "source": "Météo France",
@@ -463,6 +465,7 @@
     {
       "name": "roanne",
       "zip": "42300",
+      "weather_channel_code": "FRXX0082:1:FR",
       "forecast": [
         {
           "source": "Météo France",
@@ -693,6 +696,7 @@
     {
       "name": "issoire",
       "zip": "63500",
+      "weather_channel_code": "FRXX2298:1:FR",
       "forecast": [
         {
           "source": "Météo France",
@@ -923,6 +927,7 @@
     {
       "name": "lyon",
       "zip": "69000",
+      "weather_channel_code": "FRXX0055:1:FR",
       "forecast": [
         {
           "source": "Météo France",
@@ -1153,6 +1158,7 @@
     {
       "name": "valence",
       "zip": "26000",
+      "weather_channel_code": "FRXX0102:1:FR",
       "forecast": [
         {
           "source": "Météo France",
@@ -1383,6 +1389,7 @@
     {
       "name": "saint-etienne",
       "zip": "42000",
+      "weather_channel_code": "FRXX0274:1:FR",
       "forecast": [
         {
           "source": "Météo France",
@@ -1613,6 +1620,7 @@
     {
       "name": "clermont-ferrand",
       "zip": "63000",
+      "weather_channel_code": "FRXX0120:1:FR",
       "forecast": [
         {
           "source": "Météo France",
@@ -1843,6 +1851,7 @@
     {
       "name": "ambert",
       "zip": "63600",
+      "weather_channel_code": "FRAU1056:1:FR",
       "forecast": [
         {
           "source": "Météo France",
@@ -2073,6 +2082,7 @@
     {
       "name": "le-puy-en-velay",
       "zip": "43000",
+      "weather_channel_code": "FRXX0209:1:FR",
       "forecast": [
         {
           "source": "Météo France",
@@ -2303,6 +2313,7 @@
     {
       "name": "aurillac",
       "zip": "15000",
+      "weather_channel_code": "FRXX0139:1:FR",
       "forecast": [
         {
           "source": "Météo France",
