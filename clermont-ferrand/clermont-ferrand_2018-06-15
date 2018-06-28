@@ -1,3 +1,4 @@
-2018-06-15 : Pluies éparses Min : 14° Max : 21°
-2018-06-14 : Éclaircies Min : 13° Max : 21°
-2018-06-13 : Pluies éparses Min : 12° Max : 19°
+date,source,weather,tempMax,tempMin
+2018-06-13,Météo France,Pluies éparses,19,12
+2018-06-14,Météo France,Éclaircies,21,13
+2018-06-15,Météo France,Pluies éparses,21,14

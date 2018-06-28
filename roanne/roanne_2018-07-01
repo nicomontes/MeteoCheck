@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 2018-06-28 : Ensoleillé Min : 19° Max : 35°
 2018-06-27 : Ensoleillé Min : 19° Max : 35°
 2018-06-26 : Ensoleillé Min : 19° Max : 34°
@@ -9,3 +10,7 @@
 2018-06-20 : Pluie Min : 19° Max : 33°
 2018-06-19 : Ensoleillé Min : 18° Max : 31°
 2018-06-18 : Averses Min : 18° Max : 30°
+=======
+date,source,weather,tempMax,tempMin
+2018-06-18,Météo France,Averses,30,18
+>>>>>>> e99ffeaa4dfe01e5d08cfcc3e82b59155e09ec68

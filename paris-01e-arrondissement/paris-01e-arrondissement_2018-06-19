@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 2018-06-19 : Éclaircies Min : 17° Max : 25°
 2018-06-18 : Éclaircies Min : 15° Max : 26°
 2018-06-17 : Ensoleillé Min : 14° Max : 26°
@@ -6,3 +7,13 @@
 2018-06-14 : Éclaircies Min : 16° Max : 25°
 2018-06-13 : Rares averses Min : 15° Max : 25°
 2018-06-12 : Rares averses Min : 15° Max : 24°
+=======
+date,source,weather,tempMax,tempMin
+2018-06-12,Météo France,Rares averses,24,15
+2018-06-13,Météo France,Rares averses,25,15
+2018-06-14,Météo France,Éclaircies,25,16
+2018-06-15,Météo France,Éclaircies,25,15
+2018-06-16,Météo France,Très nuageux,25,14
+2018-06-17,Météo France,Ensoleillé,26,14
+2018-06-18,Météo France,Éclaircies,26,15
+>>>>>>> e99ffeaa4dfe01e5d08cfcc3e82b59155e09ec68
