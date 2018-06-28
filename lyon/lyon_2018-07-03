@@ -1,9 +1,2 @@
-2018-06-28 : Ensoleillé Min : 21° Max : 35°
-2018-06-27 : Averses orageuses Min : 22° Max : 36°
-2018-06-26 : Risques d'orages Min : 20° Max : 32°
-2018-06-25 : Risques d'orages Min : 20° Max : 33°
-2018-06-24 : Risques d'orages Min : 20° Max : 33°
-2018-06-23 : Ensoleillé Min : 22° Max : 34°
-2018-06-22 : Averses Min : 20° Max : 32°
-2018-06-21 : Averses Min : 19° Max : 30°
-2018-06-20 : Pluie Min : 21° Max : 31°
+date,source,weather,tempMax,tempMin
+2018-06-28,Météo France,Ensoleillé,35,21

@@ -1,8 +1,2 @@
-2018-06-28 : Averses orageuses Min : 17° Max : 27°
-2018-06-27 : Averses orageuses Min : 17° Max : 28°
-2018-06-26 : Risques d'orages Min : 15° Max : 24°
-2018-06-25 : Risques d'orages Min : 16° Max : 25°
-2018-06-24 : Ensoleillé Min : 16° Max : 26°
-2018-06-23 : Ensoleillé Min : 16° Max : 30°
-2018-06-22 : Ensoleillé Min : 16° Max : 27°
-2018-06-21 : Pluie Min : 14° Max : 25°
+date,source,weather,tempMax,tempMin
+2018-06-28,Météo France,Averses orageuses,27,17

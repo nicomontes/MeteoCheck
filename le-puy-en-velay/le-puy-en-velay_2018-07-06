@@ -1,6 +1,2 @@
-2018-06-28 : Averses Min : 16° Max : 28°
-2018-06-27 : Averses Min : 16° Max : 28°
-2018-06-26 : Ensoleillé Min : 14° Max : 27°
-2018-06-25 : Ensoleillé Min : 15° Max : 27°
-2018-06-24 : Averses Min : 15° Max : 28°
-2018-06-23 : Ensoleillé Min : 16° Max : 31°
+date,source,weather,tempMax,tempMin
+2018-06-28,Météo France,Averses,28,16

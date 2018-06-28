@@ -15,7 +15,7 @@ puts "-------"
 puts "  Run  "
 puts "-------"
 
-puts DamerauLevenshtein.distance('qsd', 'sqkf')
+#puts DamerauLevenshtein.distance('qsd', 'sqkf')
 
 # Open Chrome
 $browser = Watir::Browser.new :chrome, :switches => %w[--disable-popup-blocking --disable-translate]

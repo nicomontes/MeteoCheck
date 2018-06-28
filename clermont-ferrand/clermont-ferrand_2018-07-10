@@ -1,2 +1,2 @@
-2018-06-28 : Ensoleillé Min : 18° Max : 32°
-2018-06-27 : Ensoleillé Min : 18° Max : 30°
+date,source,weather,tempMax,tempMin
+2018-06-28,Météo France,Ensoleillé,32,18

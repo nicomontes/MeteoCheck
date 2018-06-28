@@ -1,22 +1,2 @@
-<<<<<<< HEAD
-2018-06-28 : Ensoleillé Min : 8° Max : 27°
-2018-06-27 : Ensoleillé Min : 11° Max : 27°
-2018-06-26 : Ensoleillé Min : 12° Max : 28°
-2018-06-25 : Ensoleillé Min : 13° Max : 28°
-2018-06-24 : Éclaircies Min : 13° Max : 28°
-2018-06-23 : Ensoleillé Min : 14° Max : 29°
-2018-06-22 : Ensoleillé Min : 13° Max : 28°
-2018-06-21 : Ensoleillé Min : 14° Max : 30°
-2018-06-20 : Ensoleillé Min : 14° Max : 31°
-2018-06-19 : Ensoleillé Min : 14° Max : 30°
-2018-06-18 : Ensoleillé Min : 15° Max : 30°
-2018-06-17 : Ensoleillé Min : 15° Max : 30°
-2018-06-16 : Ensoleillé Min : 15° Max : 29°
-2018-06-15 : Ensoleillé Min : 14° Max : 26°
-=======
 date,source,weather,tempMax,tempMin
-2018-06-15,Météo France,Ensoleillé,26,14
-2018-06-16,Météo France,Ensoleillé,29,15
-2018-06-17,Météo France,Ensoleillé,30,15
-2018-06-18,Météo France,Ensoleillé,30,15
->>>>>>> e99ffeaa4dfe01e5d08cfcc3e82b59155e09ec68
+2018-06-28,Météo France,Ensoleillé,27,8
